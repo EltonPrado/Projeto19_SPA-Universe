@@ -1,0 +1,20 @@
+{
+  "name": "06_projeto15_spa-universe",
+  "version": "1.0.0",
+  "description": "<h1> SPA-Universe </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EltonPrado/Projeto15_SPA-Universe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EltonPrado/Projeto15_SPA-Universe/issues"
+  },
+  "homepage": "https://github.com/EltonPrado/Projeto15_SPA-Universe#readme"
+}
