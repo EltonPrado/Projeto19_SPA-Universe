@@ -27,7 +27,7 @@ informações de navegação:
 
 Para conferir essa SPA 
 
-[Visite o projeto online](https://unique-gecko-e5c6f5.netlify.app/explorer)
+[Visite o projeto online](https://unique-gecko-e5c6f5.netlify.app/)
 
 <br>
 
